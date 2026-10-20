@@ -31,7 +31,7 @@ Il progetto è diviso in logica server e file statici:
     *   `menu.html` - Vetrina dinamica del catalogo.
     *   `contatti.html` - Pagina con mappa, orari e modulo di prenotazione.
     *   `style.css` - Foglio di stile CSS puro (variabili :root, responsive).
-    *   `script.js` - Gestione degli eventi, observer, chiamate HTTP e validazione form.
+    *   `script.js` - Gestione degli eventi, chiamate HTTP e validazione form.
 
 ## Istruzioni per l'Avvio
 
@@ -49,7 +49,6 @@ Il server si avvierà in locale su `http://localhost:3000`, dove sia il Frontend
 Per quanto riguarda le funzionalità extra, ho deciso di implementare le seguenti logiche avanzate:
 *   **Filtro Intelligente Orari Notturni:** Poiché il pub chiude alle 02:00, ho implementato un algoritmo matematico in JS che converte gli orari in minuti totali, aggiungendo 24 ore agli slot tra mezzanotte e chiusura, per permettere al sistema di filtrare correttamente gli orari passati nella giornata odierna senza rompere la logica temporale.
 *   **Parsing Dinamico dei Prezzi multipli:** Se un prodotto (es. una birra alla spina) ha più formati, il backend invia una stringa separata da un carattere speciale (`|`). Il frontend è in grado di intercettarlo, splittarlo e generare layout multipli al posto del prezzo singolo standard.
-*   **Observer Dinamico:** L'`IntersectionObserver` per le animazioni di base viene riagganciato asincronamente in tempo reale ai nuovi elementi HTML non appena vengono iniettati dalla `fetch` del backend.
 
 ## Note sull'uso dell'AI
 
@@ -59,7 +58,6 @@ Durante lo sviluppo mi sono fatto aiutare da intelligenze artificiali per ottimi
 **Parti generate con l'aiuto dell'AI:**
 *   La struttura base del file `server.js` per gestire l'API REST e le regole di routing di Express.
 *   La logica matematica per gestire e confrontare correttamente gli orari a cavallo della mezzanotte (00:00 - 02:00) nel modulo di prenotazione.
-*   La spiegazione teorica e l'impostazione base dell'`IntersectionObserver` per sostituire l'evento di scroll classico e migliorare le prestazioni.
 
 **Prompt di esempio utilizzati:**
 *   *"Ho un menu a tendina con degli orari dalle 18:00 alle 02:00. Come faccio in JavaScript a nascondere gli orari già passati se l'utente seleziona la data di oggi, considerando che le 01:00 matematicamente sono prima delle 23:00 ma nel turno del pub vengono dopo?"*
