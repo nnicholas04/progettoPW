@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "categoria": "food",
+    "nome": "CLASSIC ROCK",
+    "prezzo": "€ 7,00",
+    "descrizione": "hamburger / cotoletta *, pomodoro, insalata iceberg, cheddar, ketchup, maionese"
+  },
+  {
+    "id": 2,
+    "categoria": "food",
+    "nome": "DEMON FIRE",
+    "prezzo": "€ 8,00",
+    "descrizione": "hamburger / cotoletta *, pomodoro, insalata iceberg, scamorza affumicata, cipolla rossa, 'nduja, salsa barbecue"
+  },
+  {
+    "id": 3,
+    "categoria": "food",
+    "nome": "VERTIGO",
+    "prezzo": "€ 7,00",
+    "descrizione": "hamburger *, bacon, cheddar, ketchup, maionese"
+  },
+  {
+    "id": 4,
+    "categoria": "food",
+    "nome": "SOUL CHICKEN",
+    "prezzo": "€ 7,00",
+    "descrizione": "cotoletta *, insalata iceberg, cheddar, maionese"
+  },
+  {
+    "id": 5,
+    "categoria": "food",
+    "nome": "MAGNOLIA",
+    "prezzo": "€ 7,00",
+    "descrizione": "hamburger / cotoletta *, insalata iceberg, parmigiano, maionese, salsa d'aceto balsamico"
+  },
+  {
+    "id": 6,
+    "categoria": "food",
+    "nome": "MOTHER",
+    "prezzo": "€ 8,00",
+    "descrizione": "hamburger / cotoletta *, pancetta, gorgonzola, salsa di peperoncini, granella di noci"
+  },
+  {
+    "id": 7,
+    "categoria": "food",
+    "nome": "SUPERSONIC",
+    "prezzo": "€ 7,00",
+    "descrizione": "hamburger / cotoletta *, rucola, salame, cipolla croccante, emmental, salsa boscaiola"
+  },
+  {
+    "id": 8,
+    "categoria": "food",
+    "nome": "PSYCHO KILLER",
+    "prezzo": "€ 9,00",
+    "descrizione": "hamburger / cotoletta *, radicchio, scamorza affumicata, patate rustiche, pomodoro, salsa d'aceto balsamico, senape, maionese. Servito con patate rustiche"
+  },
+  {
+    "id": 9,
+    "categoria": "food",
+    "nome": "ALABAMA",
+    "prezzo": "€ 9,00",
+    "descrizione": "hamburger / cotoletta *, rucola, bacon, cheddar, cipolla croccante, crema di peperoni secchi, salsa di cipolle rosse, mostarda al miele"
+  },
+  {
+    "id": 10,
+    "categoria": "food",
+    "nome": "PIG",
+    "prezzo": "€ 9,00",
+    "descrizione": "porchetta, scamorza affumicata, cipolla rossa, cavolo rosso, maionese o salsa barbecue"
+  },
+  {
+    "id": 11,
+    "categoria": "food",
+    "nome": "PINK",
+    "prezzo": "€ 9,00",
+    "descrizione": "hamburger / cotoletta *, scamorza affumicata, cipolla rossa, insalata iceberg, peperoni grigliati, salsa rosa"
+  },
+  {
+    "id": 12,
+    "categoria": "food",
+    "nome": "MENU SCARPETTA",
+    "prezzo": "-",
+    "descrizione": "chiedere allo staff"
+  },
+  {
+    "id": 13,
+    "categoria": "sfiziosita",
+    "nome": "PATATINE",
+    "prezzo": "€ 3,00",
+    "descrizione": ""
+  },
+  {
+    "id": 14,
+    "categoria": "sfiziosita",
+    "nome": "HABANERO",
+    "prezzo": "€ 3,00",
+    "descrizione": "(porzione da 4)"
+  },
+  {
+    "id": 15,
+    "categoria": "sfiziosita",
+    "nome": "CROCCHETTE DI PATATE",
+    "prezzo": "€ 2,50",
+    "descrizione": "(porzione da 5)"
+  },
+  {
+    "id": 16,
+    "categoria": "sfiziosita",
+    "nome": "ANELLI DI CIPOLLA",
+    "prezzo": "€ 3,50",
+    "descrizione": "(porzione da 5)"
+  },
+  {
+    "id": 17,
+    "categoria": "sfiziosita",
+    "nome": "MOZZARELLE STICK",
+    "prezzo": "€ 4,00",
+    "descrizione": "(porzione da 4)"
+  },
+  {
+    "id": 18,
+    "categoria": "sfiziosita",
+    "nome": "ALETTE DI POLLO MESSICANE",
+    "prezzo": "€ 5,00",
+    "descrizione": "(porzione da 4)"
+  },
+  {
+    "id": 19,
+    "categoria": "sfiziosita",
+    "nome": "BANDIDOS",
+    "prezzo": "€ 5,00",
+    "descrizione": "filetti di pollo (porzione da 5)"
+  },
+  {
+    "id": 20,
+    "categoria": "sfiziosita",
+    "nome": "BREZEL",
+    "prezzo": "€ 1,50",
+    "descrizione": ""
+  },
+  {
+    "id": 21,
+    "categoria": "birre",
+    "nome": "TUCHER PILSENER",
+    "prezzo": "0,20 l - € 3,00 | 0,30 l - € 4,00 | 0,50 l - € 6,50",
+    "descrizione": "Tucher Pilsener è una birra a bassa fermentazione, appartenente al segmento Lager. Si caratterizza per il suo stampo tipicamente teutonico, dove l'amaro prevale per la generosa presenza del luppolo: una pils autentica dunque. Consigliata con primi piatti leggeri a base di verdure, carni bianche, formaggi e pizza."
+  },
+  {
+    "id": 22,
+    "categoria": "birre",
+    "nome": "CARLSBERG UNFILTERED",
+    "prezzo": "0,25 l - € 3,50 | 0,50 l - € 6,50",
+    "descrizione": "Carlsberg Unfiltered è una birra Pilsner che non viene sottoposta a processo di filtratura. In questa birra si trovano ancora i lieviti rimasti in sospensione. Aromi di crosta di pane e luppolo evidenti."
+  },
+  {
+    "id": 23,
+    "categoria": "birre",
+    "nome": "BROOKLYN EAST IPA",
+    "prezzo": "0,25 l - € 5,00 | 0,40 l - € 7,50",
+    "descrizione": "Una birra color ambra, dalla schiuma compatta e persistente. Sentori erbacei, speziati e agrumati, note calde dei malti con sensazioni caramellate."
+  },
+  {
+    "id": 24,
+    "categoria": "birre",
+    "nome": "KRONENBOURG 1664 BLANC",
+    "prezzo": "0,30 l - € 4,50 | 0,50 l - € 7,00",
+    "descrizione": "Una birra di frumento leggera, frizzante e rinfrescante caratterizzata da note agrumate e fruttate. Miscela di luppoli pregiati e un pizzico di coriandolo."
+  },
+  {
+    "id": 25,
+    "categoria": "birre",
+    "nome": "GRIMBERGEN DOUBLE AMBRÉE",
+    "prezzo": "0,25 l - € 4,50 | 0,50 l - € 7,50",
+    "descrizione": "Colore rossastro, quasi mogano. Richiama aromi tostati e fruttati con note di caramello, prugne secche, cacao e frutta essiccata."
+  },
+  {
+    "id": 26,
+    "categoria": "cocktail",
+    "nome": "APEROL SPRITZ",
+    "prezzo": "€ 5,00",
+    "descrizione": "prosecco, aperol, soda"
+  },
+  {
+    "id": 27,
+    "categoria": "cocktail",
+    "nome": "BLUE SPRITZ",
+    "prezzo": "€ 5,00",
+    "descrizione": "prosecco, blue curaçao, soda"
+  },
+  {
+    "id": 28,
+    "categoria": "cocktail",
+    "nome": "NEGRONI",
+    "prezzo": "€ 5,00",
+    "descrizione": "bitter campari, vermouth rosso, gin"
+  },
+  {
+    "id": 29,
+    "categoria": "cocktail",
+    "nome": "MARTINI",
+    "prezzo": "€ 5,00",
+    "descrizione": "gin, dry vermouth"
+  },
+  {
+    "id": 30,
+    "categoria": "cocktail",
+    "nome": "MARGARITA",
+    "prezzo": "€ 5,00",
+    "descrizione": "tequila, triple sec, lime"
+  },
+  {
+    "id": 31,
+    "categoria": "cocktail",
+    "nome": "MOJITO",
+    "prezzo": "€ 5,00",
+    "descrizione": "rum, lime, menta, zucchero, soda"
+  },
+  {
+    "id": 32,
+    "categoria": "cocktail",
+    "nome": "CUBA LIBRE",
+    "prezzo": "€ 5,00",
+    "descrizione": "rum, coca-cola, lime"
+  },
+  {
+    "id": 33,
+    "categoria": "cocktail",
+    "nome": "MOSCOW / LONDON MULE",
+    "prezzo": "€ 5,00",
+    "descrizione": "vodka / gin, ginger beer, lime"
+  },
+  {
+    "id": 34,
+    "categoria": "cocktail",
+    "nome": "GIN / VODKA TONIC",
+    "prezzo": "€ 5,00",
+    "descrizione": "gin / vodka, acqua tonica"
+  },
+  {
+    "id": 35,
+    "categoria": "cocktail",
+    "nome": "GIN / VODKA LEMON",
+    "prezzo": "€ 5,00",
+    "descrizione": "gin / vodka, soda al limone"
+  },
+  {
+    "id": 36,
+    "categoria": "cocktail",
+    "nome": "LONG ISLAND ICED TEA",
+    "prezzo": "€ 5,00",
+    "descrizione": "gin, rum, vodka, tequila, triple sec, limone, sciroppo di zucchero, coca-cola"
+  },
+  {
+    "id": 37,
+    "categoria": "cocktail",
+    "nome": "BLUE LAGOON",
+    "prezzo": "€ 5,00",
+    "descrizione": "vodka, blue curaçao, limone, sprite, sciroppo di zucchero"
+  },
+  {
+    "id": 38,
+    "categoria": "cocktail",
+    "nome": "GIN / VODKA ROSA",
+    "prezzo": "€ 5,00",
+    "descrizione": "gin / vodka, soda al pompelmo"
+  },
+  {
+    "id": 39,
+    "categoria": "cocktail",
+    "nome": "ESPRESSO MARTINI",
+    "prezzo": "€ 5,00",
+    "descrizione": "vodka, kahlúa, espresso"
+  },
+  {
+    "id": 40,
+    "categoria": "liquori",
+    "nome": "AMARI",
+    "prezzo": "€ 3,00",
+    "descrizione": ""
+  },
+  {
+    "id": 41,
+    "categoria": "liquori",
+    "nome": "GRAPPE BIANCHE",
+    "prezzo": "€ 3,00",
+    "descrizione": ""
+  },
+  {
+    "id": 42,
+    "categoria": "liquori",
+    "nome": "GRAPPE BARRICATE",
+    "prezzo": "€ 3,00",
+    "descrizione": ""
+  },
+  {
+    "id": 43,
+    "categoria": "liquori",
+    "nome": "WHISKY",
+    "prezzo": "€ 4,00",
+    "descrizione": ""
+  },
+  {
+    "id": 44,
+    "categoria": "liquori",
+    "nome": "CREMA DI WHISKY",
+    "prezzo": "€ 2,50",
+    "descrizione": ""
+  },
+  {
+    "id": 45,
+    "categoria": "liquori",
+    "nome": "LIMONCELLO",
+    "prezzo": "€ 2,50",
+    "descrizione": ""
+  },
+  {
+    "id": 46,
+    "categoria": "liquori",
+    "nome": "GENZIANA",
+    "prezzo": "€ 2,50",
+    "descrizione": ""
+  },
+  {
+    "id": 47,
+    "categoria": "liquori",
+    "nome": "RATTAFIA",
+    "prezzo": "€ 2,50",
+    "descrizione": ""
+  },
+  {
+    "id": 48,
+    "categoria": "liquori",
+    "nome": "PROSECCO",
+    "prezzo": "€ 3,00",
+    "descrizione": ""
+  },
+  {
+    "id": 49,
+    "categoria": "liquori",
+    "nome": "CALICE DI VINO ROSSO",
+    "prezzo": "€ 2,00",
+    "descrizione": ""
+  },
+  {
+    "id": 50,
+    "categoria": "softdrink",
+    "nome": "ACQUA",
+    "prezzo": "€ 1,00",
+    "descrizione": "naturale, frizzante"
+  },
+  {
+    "id": 51,
+    "categoria": "softdrink",
+    "nome": "LATTINA",
+    "prezzo": "€ 2,00",
+    "descrizione": "coca-cola zero, pepsi, pepsi al limone, fanta, sprite"
+  },
+  {
+    "id": 52,
+    "categoria": "softdrink",
+    "nome": "SODA MOJITO",
+    "prezzo": "€ 2,50",
+    "descrizione": "analcolico"
+  },
+  {
+    "id": 53,
+    "categoria": "softdrink",
+    "nome": "THE",
+    "prezzo": "€ 2,00",
+    "descrizione": "limone, pesca"
+  },
+  {
+    "id": 54,
+    "categoria": "softdrink",
+    "nome": "ACQUA TONICA",
+    "prezzo": "€ 2,50",
+    "descrizione": ""
+  },
+  {
+    "id": 55,
+    "categoria": "softdrink",
+    "nome": "CRODINO",
+    "prezzo": "€ 2,50",
+    "descrizione": ""
+  },
+  {
+    "id": 56,
+    "categoria": "softdrink",
+    "nome": "CAFFÈ",
+    "prezzo": "€ 1,00",
+    "descrizione": ""
+  },
+  {
+    "id": 57,
+    "categoria": "dessert",
+    "nome": "VECCHIO AMARO DEL CAPO",
+    "prezzo": "€ 8,00",
+    "descrizione": "Semifreddo + cioccolatini + Shot di Vecchio Amaro del Capo (solo semifreddo: € 5,00)"
+  },
+  {
+    "id": 58,
+    "categoria": "dessert",
+    "nome": "SOUFFLÉ AL CIOCCOLATO CALDO",
+    "prezzo": "€ 4,00",
+    "descrizione": ""
+  },
+  {
+    "id": 59,
+    "categoria": "dessert",
+    "nome": "PANCAKE ALLA NUTELLA",
+    "prezzo": "€ 5,00",
+    "descrizione": "nutella, panna, topping al cioccolato/frutti di bosco"
+  },
+  {
+    "id": 60,
+    "categoria": "dessert",
+    "nome": "PANCAKE ALLO SCIROPPO D'ACERO",
+    "prezzo": "€ 4,00",
+    "descrizione": "panna, topping allo sciroppo d'acero"
+  }
+]
